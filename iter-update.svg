@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="0.91 r13725"
+   version="1.1"
+   id="svg4525"
+   viewBox="0 0 744.09448819 1052.3622047"
+   height="297mm"
+   width="210mm"
+   sodipodi:docname="iter-update.svg">
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="250"
+     inkscape:window-x="250"
+     inkscape:window-height="1621"
+     inkscape:window-width="1667"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:object-nodes="true"
+     showgrid="true"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="472.08278"
+     inkscape:cx="445.27717"
+     inkscape:zoom="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4533" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4527" />
+  <metadata
+     id="metadata4530">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5404"
+       width="180"
+       height="180"
+       x="325.82529"
+       y="584.36218"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:70px;line-height:120.00000477%;font-family:FustianItal;-inkscape-font-specification:'FustianItal Thin';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="415.17084"
+       y="680.99969"
+       id="text5406"
+       sodipodi:linespacing="120%"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"><tspan
+         sodipodi:role="line"
+         id="tspan5408"
+         x="415.17084"
+         y="680.99969"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:22.5px;font-family:Fustian;-inkscape-font-specification:'Fustian Thin'">Update</tspan></text>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 433.82528,512.36218 0,36 9,0 -27,27 -27,-27 9,0 0,-36 36,0"
+       id="path5410"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <text
+       sodipodi:linespacing="120%"
+       id="text5412"
+       y="503.18219"
+       x="415.17084"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:22.5px;line-height:120.00000477%;font-family:Fustian;-inkscape-font-specification:'Fustian Thin';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"><tspan
+         y="503.18219"
+         x="415.17084"
+         id="tspan5414"
+         sodipodi:role="line">Event #2</tspan></text>
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:17.5px;line-height:120.00000477%;font-family:FustianItal;-inkscape-font-specification:'FustianItal Thin';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="-696.18951"
+       y="348.85126"
+       id="text5416"
+       sodipodi:linespacing="120%"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"><tspan
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:17.5px;line-height:120.00000477%;font-family:FustianItal;-inkscape-font-specification:'FustianItal Thin';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         sodipodi:role="line"
+         id="tspan5418"
+         x="-696.18951"
+         y="348.85126">Prior</tspan></text>
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:linespacing="120%"
+       id="text5420"
+       y="492.81625"
+       x="-714.90289"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:22.5px;line-height:120.00000477%;font-family:Fustian;-inkscape-font-specification:'Fustian Thin';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:17.5px;font-family:FustianItal;-inkscape-font-specification:'FustianItal Thin';text-align:start;text-anchor:start"
+         y="492.81625"
+         x="-714.90289"
+         id="tspan5422"
+         sodipodi:role="line">Posterior</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:17.5px;line-height:120.00000477%;font-family:FustianItal;-inkscape-font-specification:'FustianItal Thin';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="390.76651"
+       y="611.1347"
+       id="text5424"
+       sodipodi:linespacing="120%"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"><tspan
+         sodipodi:role="line"
+         id="tspan5426"
+         x="390.76651"
+         y="611.1347">Event</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4535"
+       width="180"
+       height="180"
+       x="90"
+       y="242.3622" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:70px;line-height:120.00000477%;font-family:FustianItal;-inkscape-font-specification:'FustianItal Thin';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="179.34557"
+       y="338.99969"
+       id="text5077"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         id="tspan5079"
+         x="179.34557"
+         y="338.99969"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:22.5px;font-family:Fustian;-inkscape-font-specification:'Fustian Thin'">Update</tspan></text>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 281.02848,314.3622 36,0 0,-9 27,27 -27,27 0,-9 -36,0 0,-36"
+       id="path5081"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5083"
+       d="m 18,314.3622 36,0 0,-9 27,27 -27,27 0,-9 -36,0 0,-36"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 198,170.3622 0,36 9,0 -27,27 -27,-27 9,0 0,-36 36,0"
+       id="path5085"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:22.5px;line-height:120.00000477%;font-family:Fustian;-inkscape-font-specification:'Fustian Thin';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="355.04691"
+       y="341.13721"
+       id="text5087"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         id="tspan5089"
+         x="355.04691"
+         y="341.13721"
+         style="text-align:start;text-anchor:start">Posterior</tspan></text>
+    <text
+       sodipodi:linespacing="120%"
+       id="text5091"
+       y="161.18221"
+       x="179.34557"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:22.5px;line-height:120.00000477%;font-family:Fustian;-inkscape-font-specification:'Fustian Thin';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="161.18221"
+         x="179.34557"
+         id="tspan5093"
+         sodipodi:role="line">Event</tspan></text>
+    <text
+       sodipodi:linespacing="120%"
+       id="text5095"
+       y="341.11472"
+       x="8.2603121"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:22.5px;line-height:120.00000477%;font-family:Fustian;-inkscape-font-specification:'Fustian Thin';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="341.11472"
+         x="-18.654434"
+         id="tspan5097"
+         sodipodi:role="line"
+         style="text-anchor:end;text-align:end">Prior</tspan></text>
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:17.5px;line-height:120.00000477%;font-family:FustianItal;-inkscape-font-specification:'FustianItal Thin';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="-354.18951"
+       y="113.02598"
+       id="text5320"
+       sodipodi:linespacing="120%"><tspan
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:17.5px;line-height:120.00000477%;font-family:FustianItal;-inkscape-font-specification:'FustianItal Thin';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         sodipodi:role="line"
+         id="tspan5322"
+         x="-354.18951"
+         y="113.02598">Prior</tspan></text>
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:linespacing="120%"
+       id="text5324"
+       y="256.99097"
+       x="-372.90289"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:22.5px;line-height:120.00000477%;font-family:Fustian;-inkscape-font-specification:'Fustian Thin';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:17.5px;font-family:FustianItal;-inkscape-font-specification:'FustianItal Thin';text-align:start;text-anchor:start"
+         y="256.99097"
+         x="-372.90289"
+         id="tspan5326"
+         sodipodi:role="line">Posterior</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:17.5px;line-height:120.00000477%;font-family:FustianItal;-inkscape-font-specification:'FustianItal Thin';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="154.94122"
+       y="269.1347"
+       id="text5328"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         id="tspan5330"
+         x="154.94122"
+         y="269.1347">Event</tspan></text>
+    <rect
+       y="584.36218"
+       x="63"
+       height="180"
+       width="180"
+       id="rect5332"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <text
+       sodipodi:linespacing="120%"
+       id="text5334"
+       y="680.99969"
+       x="152.34557"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:70px;line-height:120.00000477%;font-family:FustianItal;-inkscape-font-specification:'FustianItal Thin';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:22.5px;font-family:Fustian;-inkscape-font-specification:'Fustian Thin'"
+         y="680.99969"
+         x="152.34557"
+         id="tspan5336"
+         sodipodi:role="line">Update</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5338"
+       d="m 254.02848,656.36218 36,0 0,-9 27,27 -27,27 0,-9 -36,0 0,-36"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m -9,656.36218 36,0 0,-9 27,27 -27,27 0,-9 -36,0 0,-36"
+       id="path5340"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5342"
+       d="m 171,512.36218 0,36 9,0 -27,27 -27,-27 9,0 0,-36 36,0"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:22.5px;line-height:120.00000477%;font-family:Fustian;-inkscape-font-specification:'Fustian Thin';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="152.34557"
+       y="503.18219"
+       id="text5348"
+       sodipodi:linespacing="120%"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"><tspan
+         sodipodi:role="line"
+         id="tspan5350"
+         x="152.34557"
+         y="503.18219">Event #1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:22.5px;line-height:120.00000477%;font-family:Fustian;-inkscape-font-specification:'Fustian Thin';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="-52.739689"
+       y="669.64844"
+       id="text5352"
+       sodipodi:linespacing="120%"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"><tspan
+         style="text-align:center;text-anchor:middle"
+         sodipodi:role="line"
+         id="tspan5354"
+         x="-52.739689"
+         y="669.64844">Initial</tspan><tspan
+         style="text-align:center;text-anchor:middle"
+         sodipodi:role="line"
+         x="-52.739689"
+         y="696.64844"
+         id="tspan5460">Prior</tspan></text>
+    <text
+       sodipodi:linespacing="120%"
+       id="text5356"
+       y="86.025978"
+       x="-696.18951"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:17.5px;line-height:120.00000477%;font-family:FustianItal;-inkscape-font-specification:'FustianItal Thin';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"><tspan
+         y="86.025978"
+         x="-696.18951"
+         id="tspan5358"
+         sodipodi:role="line"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:17.5px;line-height:120.00000477%;font-family:FustianItal;-inkscape-font-specification:'FustianItal Thin';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">Prior</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:22.5px;line-height:120.00000477%;font-family:Fustian;-inkscape-font-specification:'Fustian Thin';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="-714.90289"
+       y="229.99097"
+       id="text5360"
+       sodipodi:linespacing="120%"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"><tspan
+         sodipodi:role="line"
+         id="tspan5362"
+         x="-714.90289"
+         y="229.99097"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:17.5px;font-family:FustianItal;-inkscape-font-specification:'FustianItal Thin';text-align:start;text-anchor:start">Posterior</tspan></text>
+    <text
+       sodipodi:linespacing="120%"
+       id="text5364"
+       y="611.1347"
+       x="127.94122"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:17.5px;line-height:120.00000477%;font-family:FustianItal;-inkscape-font-specification:'FustianItal Thin';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"><tspan
+         y="611.1347"
+         x="127.94122"
+         id="tspan5366"
+         sodipodi:role="line">Event</tspan></text>
+    <rect
+       y="584.36218"
+       x="588.18359"
+       height="180"
+       width="180"
+       id="rect5428"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <text
+       sodipodi:linespacing="120%"
+       id="text5430"
+       y="680.99969"
+       x="677.52917"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:70px;line-height:120.00000477%;font-family:FustianItal;-inkscape-font-specification:'FustianItal Thin';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:22.5px;font-family:Fustian;-inkscape-font-specification:'Fustian Thin'"
+         y="680.99969"
+         x="677.52917"
+         id="tspan5432"
+         sodipodi:role="line">Update</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5434"
+       d="m 696.1836,512.36218 0,36 9,0 -27,27 -27,-27 9,0 0,-36 36,0"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:22.5px;line-height:120.00000477%;font-family:Fustian;-inkscape-font-specification:'Fustian Thin';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="677.52917"
+       y="503.18219"
+       id="text5436"
+       sodipodi:linespacing="120%"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"><tspan
+         sodipodi:role="line"
+         id="tspan5438"
+         x="677.52917"
+         y="503.18219">Event #3</tspan></text>
+    <text
+       sodipodi:linespacing="120%"
+       id="text5440"
+       y="611.20959"
+       x="-696.18951"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:17.5px;line-height:120.00000477%;font-family:FustianItal;-inkscape-font-specification:'FustianItal Thin';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"><tspan
+         y="611.20959"
+         x="-696.18951"
+         id="tspan5442"
+         sodipodi:role="line"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:17.5px;line-height:120.00000477%;font-family:FustianItal;-inkscape-font-specification:'FustianItal Thin';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">Prior</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:22.5px;line-height:120.00000477%;font-family:Fustian;-inkscape-font-specification:'Fustian Thin';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="-714.90289"
+       y="755.17456"
+       id="text5444"
+       sodipodi:linespacing="120%"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"><tspan
+         sodipodi:role="line"
+         id="tspan5446"
+         x="-714.90289"
+         y="755.17456"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:17.5px;font-family:FustianItal;-inkscape-font-specification:'FustianItal Thin';text-align:start;text-anchor:start">Posterior</tspan></text>
+    <text
+       sodipodi:linespacing="120%"
+       id="text5448"
+       y="611.1347"
+       x="653.12482"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:17.5px;line-height:120.00000477%;font-family:FustianItal;-inkscape-font-specification:'FustianItal Thin';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"><tspan
+         y="611.1347"
+         x="653.12482"
+         id="tspan5450"
+         sodipodi:role="line">Event</tspan></text>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 516.3868,656.36218 36,0 0,-9 27,27 -27,27 0,-9 -36,0 0,-36"
+       id="path5452"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5454"
+       d="m 778.12455,656.36218 36,0 0,-9 27,27 -27,27 0,-9 -36,0 0,-36"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <text
+       sodipodi:linespacing="120%"
+       id="text5456"
+       y="669.63721"
+       x="899.14294"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:22.5px;line-height:120.00000477%;font-family:Fustian;-inkscape-font-specification:'Fustian Thin';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"><tspan
+         style="text-align:center;text-anchor:middle"
+         y="669.63721"
+         x="899.14294"
+         id="tspan5458"
+         sodipodi:role="line">Final</tspan><tspan
+         style="text-align:center;text-anchor:middle"
+         y="696.63721"
+         x="899.14294"
+         sodipodi:role="line"
+         id="tspan5462">Posterior</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5464"
+       style="fill:#003380;fill-opacity:1;stroke:#003380;text-anchor:middle;text-align:center;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;color:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;-inkscape-font-specification:'FustianItal Thin';font-family:FustianItal;font-weight:100;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.5px;opacity:1;text-indent:0;text-decoration:none;line-height:120.00000477%;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;fill-rule:nonzero;color-interpolation:sRGB;color-interpolation-filters:linearRGB;marker-start:none;marker-mid:none;marker-end:none;clip-rule:nonzero;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;isolation:auto;mix-blend-mode:normal;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;blend_mode:normal;filter-blend-mode:normal;filter-gaussianBlur-deviation:0;solid-color:#000000;solid-opacity:1;white-space:normal;"><flowRegion
+         id="flowRegion5466"><rect
+           id="rect5468"
+           width="1134"
+           height="353"
+           x="-130"
+           y="454.36218" /></flowRegion><flowPara
+         id="flowPara5470"></flowPara></flowRoot>  </g>
+</svg>
